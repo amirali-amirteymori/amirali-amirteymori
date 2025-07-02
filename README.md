@@ -17,6 +17,7 @@
 [![LINUX](https://skillicons.dev/icons?i=linux&theme=dark)](https://skillicons.dev)
 [![KALI](https://skillicons.dev/icons?i=kali)](https://skillicons.dev)
 [![BASH](https://skillicons.dev/icons?i=bash&theme=dark)](https://skillicons.dev)
+<img src='Security.svg' width="48px" height="48px"/>
 
 ## Socials :
 [![TELEGRAM](https://skills-icons.vercel.app/api/icons?i=telegram)](https://t.me/itsamirali_dev)
