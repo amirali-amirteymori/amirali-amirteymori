@@ -1,6 +1,6 @@
 # 👋 Hi there
 
-I'm a Back-End and Mobile Developer passionate about building modern web and Flutter apps. 🚀 Always exploring new technologies to create efficient and user-friendly solutions.
+I'm a Back-End passionate about building modern web apps. 🚀 Always exploring new technologies to create efficient and user-friendly solutions.
 
 # 💻 Tech Stack:
 
