@@ -1,13 +1,16 @@
 # 👋 Hi there
 
-I'm a Back-End passionate about building modern web apps. 🚀 Always exploring new technologies to create efficient and user-friendly solutions.
+I'm a backend developer passionate about building efficient systems and continuously learning new technologies. This is where I share my projects and experiments 🚀
 
 # 💻 Tech Stack:
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
+[![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
+[![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)](#)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
 
