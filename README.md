@@ -1,6 +1,6 @@
 # 👋 Hi there
 
-I'm a backend developer and mobile developer passionate about building efficient systems and continuously learning new technologies. This is where I share my projects and experiments 🚀
+I'm a backend developer passionate about building efficient systems and continuously learning new technologies. This is where I share my projects and experiments 🚀
 
 # 💻 Tech Stack:
 
