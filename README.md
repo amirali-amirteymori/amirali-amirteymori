@@ -6,8 +6,8 @@ I'm a backend developer and mobile developer passionate about building efficient
 
 [![My Skills](https://skillicons.dev/icons?i=java&perline=3)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=spring&perline=3)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=dart&perline=3)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=flutter&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs&perline=3)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=linux&perline=3)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=bash&perline=3)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=docker&perline=3)](https://skillicons.dev)
